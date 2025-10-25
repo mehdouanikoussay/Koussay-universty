@@ -1,13 +1,12 @@
-# 👋 Hi, I'm Koussay Mehdouani  
-
-🌐 **Language Versions:**  
+# 🌐 **Language Versions:**  
 - 🇬🇧 [English](https://github.com/mehdouanikoussay/Koussay-universty/blob/main/README.md)  
 - 🇫🇷 [Français](https://github.com/mehdouanikoussay/Koussay-universty/blob/main/README(fr))  
 - 🇦🇪 [العربية](https://github.com/mehdouanikoussay/Koussay-universty/blob/main/README(Ar))
-  
-🎓 *Aspiring Computer Science student from Tunisia*  
-💡 Passionate about **Web Development, Cloud Computing, and Human-Centered Design**  
-📚 Building my portfolio in preparation for university applications and future research in HCI (Human–Computer Interaction).  
+
+# 👋 Hi, I'm Koussay Mehdouani
+- 🎓 *Aspiring Computer Science student from Tunisia*  
+- 💡 Passionate about **Web Development, Cloud Computing, and Human-Centered Design**  
+- 📚 Building my portfolio in preparation for university applications and future research in HCI (Human–Computer Interaction).  
 
 ---
 
