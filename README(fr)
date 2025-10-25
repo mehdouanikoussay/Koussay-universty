@@ -1,0 +1,89 @@
+# 👋 Bonjour, je suis Koussay Mehdouani
+
+🎓 Étudiant en informatique aspirant depuis la Tunisie  
+💡 Passionné par le développement web, le cloud computing et le design centré sur l'humain  
+📚 Je construis mon portfolio en préparation des candidatures universitaires et pour de futures recherches en HCI (Interaction Homme-Machine).  
+
+---
+
+## 🧠 À propos de moi
+
+💻 J'aime créer des expériences numériques centrées sur l'utilisateur, qui équilibrent **fonctionnalité et design**.
+
+☁️ Je m'intéresse actuellement au **CloudOps, aux services AWS et aux backends évolutifs** pour des applications de productivité étudiantes.
+
+🎨 Je porte un grand intérêt à la **recherche UX** et à la psychologie derrière la concentration et la motivation.
+
+🌍 Langues : Anglais (B1+), Français (intermédiaire), Arabe (natif).
+
+---
+
+## 🧩 Projets
+
+### 🪶 FocusMate Cloud
+
+Outil de productivité conçu pour aider les étudiants à maintenir leur concentration et motivation à travers des cycles de pauses personnalisés, le suivi de la concentration et des sessions d'étude entre pairs.  
+*(Conçu lors de l’atelier Human-Centered Design de l’Acumen Academy)*
+
+**Points forts :**  
+- Permet de démarrer une session de concentration avec des durées personnalisables.  
+- Suit le temps passé à se concentrer et le temps restant pour la session.  
+- Propose une pause de 5 minutes toutes les 15 minutes pour optimiser la concentration.  
+- Sauvegarde les données des sessions dans **Firebase via API** et fournit des statistiques quotidiennes.  
+- Développé avec **HTML, CSS, JavaScript**, compatible avec tous les navigateurs modernes.  
+- Conçu selon les principes de **Human-Centered Design** pour maximiser l’engagement des étudiants.
+
+**Accéder aux fichiers complets du projet :**  
+[FocusMate Cloud ZIP Repository](https://github.com/mehdouanikoussay/Koussay-universty/blob/32d968d30f87242f860e78beaaf99c912ead4b30/FocusMate_cloud.zip)
+
+---
+
+## 🏅 Certifications
+
+📄 [Voir tous mes certificats (PDF)](https://drive.google.com/file/d/1wn8ZsKliO5fprrWHltB8YBe8rMPn6_0j/view?usp=drivesdk)  
+_(Le document complet inclut les certifications officielles d’AWS, Cisco, freeCodeCamp, Google, IDEO.org et Open University.)_
+
+### Points forts
+| Certification | Émetteur | Date |
+|----------------|---------|------|
+| AWS Cloud Practitioner – Exam Prep & Practice | AWS Training & Certification | Oct 2025 |
+| AWS CloudOps Engineer – Exam Prep | AWS Training & Certification | Oct 2025 |
+| Python Essentials 1 | Cisco Networking Academy | Oct 2025 |
+| Responsive Web Design | freeCodeCamp | Oct 2025 |
+| Front-End Development Libraries | freeCodeCamp | Oct 2025 |
+| JavaScript Algorithms & Data Structures | freeCodeCamp | Oct 2025 |
+| Fundamentals of Digital Marketing | Google Digital Garage | Oct 2025 |
+| Human-Centered Design | Acumen Academy & IDEO.org | Oct 2025 |
+| Introduction to Interaction Design | The Open University (OpenLearn) | Oct 2025 |
+
+---
+
+## 🧰 Compétences
+
+**Langages & Frameworks :**  
+Python · JavaScript · HTML · CSS · React · Flask  
+
+**Cloud & Outils Dev :**  
+AWS · Firebase · Git · GitHub · Linux · Termux · Postman  
+
+**Design & UX :**  
+Figma · Human-Centered Design · Recherche Utilisateur · Wireframing  
+
+---
+
+## 🪄 Projets en cours
+
+- Développement d’un chatbot interactif pour le suivi de productivité (**FocusMate AI**).  
+- Expérimentation avec des interfaces adaptatives **pilotées par IA**.  
+- Approfondissement de la compréhension de la **psychologie cognitive appliquée au design**.  
+
+---
+
+## 🌐 Me contacter
+
+📧 Email : [koussaykaskoussa@gmail.com](mailto:koussaykaskoussa@gmail.com)  
+💼 LinkedIn : [linkedin.com/in/koussay-mehdouani-45560a389](https://www.linkedin.com/in/koussay-mehdouani-45560a389)  
+💻 GitHub : [github.com/amkkoussay](https://github.com/amkkoussay)  
+
+« La technologie doit servir l’humain — et non l’inverse. »  
+*– Koussay Mehdouani*
