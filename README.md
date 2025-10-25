@@ -3,7 +3,7 @@
 🌐 **Language Versions:**  
 - 🇬🇧 [English](https://github.com/mehdouanikoussay/Koussay-universty/blob/main/README.md)  
 - 🇫🇷 [Français](https://github.com/mehdouanikoussay/Koussay-universty/blob/main/README(fr))  
-- 🇦🇪 [العربية](#)
+- 🇦🇪 [العربية](https://github.com/mehdouanikoussay/Koussay-universty/blob/main/README(Ar))
   
 🎓 *Aspiring Computer Science student from Tunisia*  
 💡 Passionate about **Web Development, Cloud Computing, and Human-Centered Design**  
