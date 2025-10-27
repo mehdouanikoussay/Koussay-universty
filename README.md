@@ -33,8 +33,7 @@ A productivity tool designed to help students maintain focus and motivation thro
 - Focused on **Human-Centered Design principles** to enhance student engagement.
 
 **Access the full project files here:**  
-[FocusMate Cloud ZIP Repository](https://github.com/mehdouanikoussay/Koussay-universty/blob/32d968d30f87242f860e78beaaf99c912ead4b30/FocusMate_cloud.zip)  
-
+https://github.com/mehdouanikoussay/FocusMate
 ---
 
 ## 🏅 Certifications  
