@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FocusMate Cloud</title>
+  <link rel="stylesheet" href="style.css" />
+  <script type="module" src="firebase-config.js"></script>
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <div class="app">
+    <h1>FocusMate Cloud ☁️</h1>
+    <p class="subtitle">Stay focused, stay calm.</p>
+
+    <div class="timer">
+      <span id="minutes">25</span>:<span id="seconds">00</span>
+    </div>
+
+    <div class="buttons">
+      <button id="startBtn">Start</button>
+      <button id="resetBtn">Reset</button>
+    </div>
+
+    <div class="stats">
+      <h2>My Sessions</h2>
+      <ul id="sessionsList"></ul>
+    </div>
+  </div>
+</body>
+</html>
